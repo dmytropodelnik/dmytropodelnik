@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently improving my **architecture building skills**
 
-- ☁️ I'm keen on cloud computing. So, I'm learning **AWS, Azure**
+- ☁️ I'm keen on cloud services. So, I'm learning **AWS, Azure**
 
 - 📝 I regularly solve tasks on [Codewars](https://www.codewars.com/)
 
