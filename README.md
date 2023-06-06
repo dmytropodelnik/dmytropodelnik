@@ -56,18 +56,3 @@
     <img src="https://skillicons.dev/icons?i=git,aws,azure,cpp,cs,dotnet,angular,react,redux,html,css,bootstrap,js,ts,nodejs,figma,discord,github,postman,vscode,visualstudio,solidity&perline=11" />
   </a>
 </p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/dmytro-podelnik-b22b29173/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  
-</p>
