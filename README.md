@@ -52,15 +52,6 @@
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=dmytropodelnik&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
 </p>        
 <!--- stats (end) -->
 
@@ -74,7 +65,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,azure,bootstrap,cpp,cs,dotnet,css,discord,figma,github,html,js,mongodb,mysql,nodejs,postman,angular,react,redux,ts,vscode,visualstudio,solidity&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,aws,azure,cpp,cs,dotnet,angular,react,redux,html,css,bootstrap,js,ts,nodejs,discord,figma,github,postman,vscode,visualstudio,solidity&perline=11" />
   </a>
 </p>
 
