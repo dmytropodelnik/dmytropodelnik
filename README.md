@@ -14,7 +14,7 @@
 
 - 📝 I regularly solve tasks on [Codewars](https://www.codewars.com/)
 
-- 📫 Feel free to reach me out **dmitrypodelnik.developer@gmail.com**
+- 📫 Feel free to reach me out **dmytropodelnik.developer@gmail.com**
 <!--Intro end-->
 
 
