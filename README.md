@@ -6,7 +6,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, .NET, Blockchain**
+<!--[- 🔭 I’m currently working on **AWS, React, .NET, Blockchain**](url)-->
 
 - 🌱 I’m currently improving my **architecture building skills**
 
