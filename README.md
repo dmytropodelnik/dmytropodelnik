@@ -50,6 +50,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,azure,cpp,cs,dotnet,angular,react,vue,redux,nuxtjs,html,css,bootstrap,vuetify,js,ts,nodejs,figma,discord,github,postman,vscode,visualstudio,solidity&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cs,dotnet,angular,react,vue,redux,nuxtjs,html,css,bootstrap,vuetify,tailwind,js,ts,nodejs,figma,discord,vscode,visualstudio,solidity&perline=11" />
   </a>
 </p>
